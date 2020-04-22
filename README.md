@@ -6,3 +6,7 @@ Two simple scripts:
 - search.py - searches in the content  
 
 
+usage:  
+Python3 with requirements.txt  
+docker-compose up -d  
+
