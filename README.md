@@ -14,7 +14,12 @@ docker-compose up -d
 
 
 ```
-python3 search.py shaken
+$ python3 create_index.py 
+...
+...
+Document indexed: 148043
+
+$ python3 search.py shaken
 oak not to be wind-shaken. 
 Score: 9.940123, File: coriolanus.5.2.txt, Line: 156
 
