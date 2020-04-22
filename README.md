@@ -10,4 +10,4 @@ usage:
 Python3 with requirements.txt  
 docker-compose up -d  
 
-* There is also /spider, but it is dependent on lib. Scrapy which is not part of this project.
+// There is also /spider, but it is dependent on lib. Scrapy which is not part of this project.
