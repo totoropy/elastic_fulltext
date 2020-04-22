@@ -8,14 +8,6 @@ from datetime import datetime
 from elasticsearch import Elasticsearch
 
 
-start_time = time.time()
-
-author = ''
-name = ''
-scene = ''
-text = ''
-
-
 def load_file_content(filename):
     with open(filename, 'r') as f:
         lines = f.readlines()
